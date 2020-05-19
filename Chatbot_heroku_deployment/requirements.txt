@@ -6,3 +6,4 @@ numpy==1.16.5
 Keras==2.3.1
 lxml==4.4.1
 Werkzeug==0.15.5
+tensorflow==2.1.0
